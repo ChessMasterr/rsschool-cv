@@ -2,11 +2,11 @@
 
 ---
 
----
-
 ## Name
 
-Фархутдинов Артем Олегович \
+---
+
+ARTEM OLEGOVICH \
 
 ## My Contact Info
 
@@ -19,15 +19,22 @@
 
 ## Personal information
 
+---
+
 I want to become a JS developer. Some knowledge of Python programming language
 
 ## Skills
 
+---
+
 - HTML
 - CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
 - Python
+- [CV project](https://ChessMasterr.github.io/rsschool-cv/cv)
 
 ## Code examples
+
+---
 
 ```
 function multiply(a, b) {
@@ -37,9 +44,13 @@ function multiply(a, b) {
 
 ## Work experience:
 
+---
+
 no work expirience
 
 ## Education and courses:
+
+---
 
 Profession - Surgeon. General medical experience of about 8 years
 
@@ -51,4 +62,6 @@ Tried to take a JS course on Stepik
 
 ## English
 
-Pre-Intermediate (CEFR A2+)
+---
+
+Pre-Intermediate (A2+)
