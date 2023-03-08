@@ -1,1 +1,1 @@
-https://ChessMasterr.github.io/rsschool-cv/cv
+https://ChessMasterr.github.io/rsschool-cv/
